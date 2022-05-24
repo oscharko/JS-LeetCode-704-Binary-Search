@@ -20,11 +20,7 @@ You must write an algorithm with O(log n) runtime complexity.
 - All the integers in nums are **unique**.
 - nums is sorted in ascending order.
 
-
-## first Solution
-[LeetCode]()
-
 # final Solution
-[LeetCode]()
+[LeetCode](https://leetcode.com/submissions/detail/706270819/)
 
 [![Run on Repl.it](https://repl.it/badge/github/oscharko/JS-LeetCode-704-Binary-Search)](https://replit.com/@oscharko/JS-LeetCode-704-Binary-Search)
